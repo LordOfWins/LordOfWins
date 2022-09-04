@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp;
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=0poison)](https://solved.ac/0poison)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0poison&layout=compact)](https://github.com/0poison/github-readme-stats)
