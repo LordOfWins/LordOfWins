@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @0poison
-- 👀 I’m interested in back end.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:81BEF7,100:2ECCFA&height=180&section=header&text=🐟🐠&fontSize=30&fontColor=585858&fontAlign=85)
-<!---
-0poison/0poison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![0poison's github stats](https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true)
+
+## Tech Stack<br>
+<img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp;
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=0poison)](https://solved.ac/0poison)
