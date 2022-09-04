@@ -1,4 +1,5 @@
-![0poison's github stats](https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true)
+![0poison's github stats](https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0poison&layout=compact)](https://github.com/0poison/github-readme-stats)
 
 ## Tech Stack<br>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
@@ -8,4 +9,3 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0poison&layout=compact)](https://github.com/0poison/github-readme-stats)
