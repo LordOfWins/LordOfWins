@@ -9,5 +9,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp;
 
-#저작권 관련해서
+저작권 때문에
 Today-I-Learned와 Today-I-Study는 private인점 양해 바랍니다.
