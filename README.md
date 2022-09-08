@@ -1,5 +1,5 @@
-![0poison's github stats](https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0poison&layout=compact)](https://github.com/0poison/github-readme-stats)
+| <a href="https://github.com/0poison/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0poison's github stats" /></a> | <a href="https://github.com/0poison/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0poison&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## Tech Stack<br>
 <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
