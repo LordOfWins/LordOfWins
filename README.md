@@ -1,9 +1,8 @@
 <h1 align="center"> Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<a href="https://github.com/0poison/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0poison's github stats" /></a>
-
-![0poison github stats](https://github-readme-stats.vercel.app/api/top-langs?username=0poison&show_icons=true&theme=white&langs_count=3)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0poison&theme=white&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="0poison's github streak stats" />
+<a href="https://github.com/0poison/github-readme-stats"><img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=0poison&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="0poison's github stats" /></a>
+![0poison github stats](https://github-readme-stats.vercel.app/api/top-langs?username=0poison&show_icons=true&theme=dark&langs_count=3)
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=0poison&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="0poison's github streak stats" />
 
 <br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Backend+and+Java+developer.;I+am+improving+myself.;I+am+chasing+innovations+endlessly." alt="Typing SVG" /></a></p>
