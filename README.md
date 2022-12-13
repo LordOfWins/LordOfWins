@@ -6,7 +6,6 @@
 <br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Backend+and+Java+developer.;I+am+improving+myself.;I+am+chasing+innovations+endlessly." alt="Typing SVG" /></a></p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=0poison&theme=react-dark" alt="drawing" width="800">
 <p align="center"><img align="center"src="https://github-profile-trophy.vercel.app/?username=0poison&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"</a></p>
 
 
