@@ -21,8 +21,6 @@
 ![LordOfWins's github stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordOfWins&theme=onedark)
 ![LordOfWins's github stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LordOfWins&theme=onedark)
 <br>
-### [Snake game from github user contributions graph](https://github.com/Platane/snk) - [Platane](https://github.com/Platane/) 
-![github-user-contribution](https://github.com/LordOfWins/LordOfWins/assets/106107068/2bb29dbd-7f08-4b91-8ae8-a5de228bde38)
 
 <h1 align="center"> Tech Stack</h1>
 
