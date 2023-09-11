@@ -25,6 +25,8 @@
 
 <h1 align="center"> Tech Stack</h1>
 
+ <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 <p align="center"/>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp;
