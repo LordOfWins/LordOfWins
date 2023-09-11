@@ -21,6 +21,7 @@
 ![LordOfWins's github stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LordOfWins&theme=onedark)
 ![LordOfWins's github stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LordOfWins&theme=onedark)
 <br>
+[![LordOfWins's wakatime stats(for 10000 hours)](https://github-readme-stats.vercel.app/api/wakatime?username=LordOfWins)](https://wakatime.com/@LordOfWins)
 
 <h1 align="center"> Tech Stack</h1>
 
